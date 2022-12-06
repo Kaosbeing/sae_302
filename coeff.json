@@ -1,0 +1,83 @@
+{
+    "alimentation": {
+        "provenance": 3,
+        "ethique": 2,
+        "renouvelables": 2,
+        "emballages": 3,
+        "label": 1,
+        "recyclabilité": 2,
+        "transparence": 3
+    },
+    "mode": {
+        "provenance": 1,
+        "ethique": 3,
+        "renouvelables": 3,
+        "emballages": 2,
+        "label": 1,
+        "recyclabilité": 2,
+        "transparence": 2
+    }, 
+    "beauté": {
+        "provenance": 1,
+        "ethique": 3,
+        "renouvelables": 3,
+        "emballages": 2,
+        "label": 1,
+        "recyclabilité": 0,
+        "transparence": 2
+    },
+    "enfant": {
+        "provenance": 2,
+        "ethique": 1,
+        "renouvelables": 3,
+        "emballages": 3,
+        "label": 1,
+        "recyclabilité": 2,
+        "transparence": 2
+    },
+    "maison": {
+        "provenance": 2,
+        "ethique": 1,
+        "renouvelables": 3,
+        "emballages": 3,
+        "label": 1,
+        "recyclabilité": 3,
+        "transparence": 2
+    },
+    "loisirs": {
+        "provenance": 1,
+        "ethique": 1,
+        "renouvelables": 3,
+        "emballages": 3,
+        "label": 1,
+        "recyclabilité": 2,
+        "transparence": 2
+    },
+    "vehicules": {
+        "provenance": 2,
+        "ethique": 1,
+        "renouvelables": 2,
+        "emballages": 0,
+        "label": 1,
+        "recyclabilité": 0,
+        "transparence": 2
+    },
+    "animaux": {
+        "provenance": 1,
+        "ethique": 3,
+        "renouvelables": 2,
+        "emballages": 1,
+        "label": 1,
+        "recyclabilité": 3,
+        "transparence": 2
+    },
+    "services": {
+        "provenance": 0,
+        "ethique": 0,
+        "renouvelables": 0,
+        "emballages": 0,
+        "label": 0,
+        "recyclabilité": 0,
+        "transparence": 0
+    }
+}
